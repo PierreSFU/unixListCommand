@@ -1,4 +1,4 @@
-// Pierre Drego 301301848
+// Name studentNumber //** GIT privacy EDIT
 
 // Headers
 #include "getFiles.h"
