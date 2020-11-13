@@ -1,5 +1,5 @@
 # Makefile for building demo applications.
-# by Brian Fraser, edited by Pierre Drego :)
+# by Brian Fraser, edited by // Name studentNumber //** GIT privacy EDIT :)
 
 # Edit this file to compile extra C files into their own programs.
 TARGETS= myls
